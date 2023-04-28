@@ -1,0 +1,28 @@
+.header-container{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+
+.search-input{
+    padding: 8px 15px;
+    font-size: 15px;
+    width: 350px;
+    border-width: 0;
+    background: #b5aae1;
+    border-radius: 50px;
+    color: aliceblue;
+    box-shadow: 0 0 5px rgba(255, 255, 255, alph0.5a);
+}
+
+.search-input::placeholder{
+    color: aliceblue;
+}
+
+
+@media(max-width: 577px){
+    .search-input{
+        width: 65%;
+    }
+}
