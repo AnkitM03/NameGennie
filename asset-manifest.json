@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NameGennie/static/css/main.4bde5625.css",
+    "main.js": "/NameGennie/static/js/main.1ff8ca5d.js",
+    "static/js/787.9eec249c.chunk.js": "/NameGennie/static/js/787.9eec249c.chunk.js",
+    "static/media/undraw_location_search_re_ttoj.svg": "/NameGennie/static/media/undraw_location_search_re_ttoj.9f0b7ebed679f4fbf2085373b2891314.svg",
+    "index.html": "/NameGennie/index.html",
+    "main.4bde5625.css.map": "/NameGennie/static/css/main.4bde5625.css.map",
+    "main.1ff8ca5d.js.map": "/NameGennie/static/js/main.1ff8ca5d.js.map",
+    "787.9eec249c.chunk.js.map": "/NameGennie/static/js/787.9eec249c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4bde5625.css",
+    "static/js/main.1ff8ca5d.js"
+  ]
+}
